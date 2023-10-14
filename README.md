@@ -5,7 +5,7 @@ a python game called us-states-game using pandas and turtle library and csv modu
 
 1. Clone the repository to your local machine.
 
-Run the game by executing the main.py file:
+   Run the game by executing the main.py file:
 
 # Features
 
